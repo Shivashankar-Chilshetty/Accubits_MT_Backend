@@ -1,0 +1,25 @@
+{
+  "name": "accmt-backend",
+  "version": "1.0.0",
+  "description": "MT of accubits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivashankar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^6.0.8",
+    "morgan": "^1.10.0",
+    "pino": "^6.13.3",
+    "shortid": "^2.2.16"
+  }
+}
